@@ -77,6 +77,9 @@ startButton.onclick = function () {
   input.focus();
   // Generate Word Function
   genWords();
+  lvlNameSpan.style.display="none"
+
+
 }
 
 function genWords() {
