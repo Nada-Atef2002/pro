@@ -1,0 +1,40 @@
+.startP {
+    background: url(girl-typing-keyboard-footage-021603302_prevstill.webp) no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   background-attachment: fixed;
+  }
+  .startDiv {
+      float: right;
+      margin-top: 250px;
+      margin-right: 50PX;
+      background-color: white;
+      opacity: 0.7;
+      padding: 5px;
+      justify-content: center;
+  }
+  
+ .button{
+      background-color: black;
+      border-radius: 5px;
+      font-size: large;
+      float: right;
+      margin-top: 500px;
+      position: fixed;
+      bottom: 100px;
+      right: 210px;
+  }
+  .button:hover {background-color:rgba(0, 0, 0, 0.753)}
+
+  .button:active {
+    background-color:rgba(82, 79, 47, 0.74);
+    box-shadow: 0 5px rgba(83, 85, 62, 0.685);
+    transform: translateY(4px);
+  }
+  .startA {
+      color: ghostwhite;
+      padding: 10px;
+      text-decoration: none;
+  }
