@@ -10,7 +10,7 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 .game {
-background-color: rgb(47, 160, 160);
+background: url(photo-1636953056323-9c09fdd74fa6.jpg);
   min-height: 100vh;
 }
 .container {
