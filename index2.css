@@ -10,7 +10,7 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 .game {
-  background:url(../speed/photo-1636953056323-9c09fdd74fa6.jpg );
+background-color: rgb(47, 160, 160);
   min-height: 100vh;
 }
 .container {
